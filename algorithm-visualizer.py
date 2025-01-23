@@ -27,7 +27,7 @@ st.markdown(
 
     /* Sidebar header styling */
     .css-1d391kg h1 {
-        color: white; /* Set the header text color to white */
+        color: black; /* Set the header text color to white */
     }
 
     /* Heading styling - ensure the title stays white */
