@@ -55,7 +55,7 @@ st.markdown(
 
     /* General text styling */
     .css-16huue1 {
-        color: white; /* White text for markdown */
+        color: black; /* White text for markdown */
     }
     </style>
     """,
